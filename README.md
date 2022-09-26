@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicolas@DVIMultimedia
 - 👀 I’m interested in .Net tech
-- 🌱 I’m currently learning Blazor
+- 🌱 I’m currently compiling ;)
 
 <!---
 DVIMultimedia/DVIMultimedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
